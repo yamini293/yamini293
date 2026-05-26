@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Yamini Pydala 👋
 
-<!--
-**yamini293/yamini293** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Student  
+💻 Learning Python & Quantum Computing  
+⚛️ AQV Quantum Computing Aspirant  
+🚀 Exploring Qiskit, GitHub, and Open Source  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+- Python
+- Git & GitHub
+- Quantum Computing Basics
+- Qiskit
+- Problem Solving
+
+---
+
+## 📚 Currently Learning
+- Quantum Algorithms
+- Qiskit
+- PennyLane
+- GitHub Projects
+
+---
+
+## 🚀 Projects
+Coming Soon...
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/yamini-pydala-337b0938b
+
+---
+
+⭐ Thanks for visiting my GitHub profile!
