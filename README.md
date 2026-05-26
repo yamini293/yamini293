@@ -1,8 +1,7 @@
 # Hi, I'm Yamini Pydala 👋
 
 🎓 B.Tech Student  
-💻 Learning Python & Quantum Computing  
-⚛️ AQV Quantum Computing Aspirant  
+💻 Learning Python & Quantum Computing    
 🚀 Exploring Qiskit, GitHub, and Open Source  
 
 ---
